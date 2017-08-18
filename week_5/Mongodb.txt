@@ -1,0 +1,15 @@
+MongoDB has filed confidentially for IPO, sources tell TechCrunch.
+The company has submitted an S-1 filing in the past few weeks and is aiming to go public before the end of the year.
+New York-based MongoDB helps companies including Adobe, eBay and Citigroup manage databases. 
+Some of its offerings include its name-bearing MongoDB open source database and the Atlas database-as-a-service offering.
+The company has raised over $300 million in equity financing dating back to 2008, including well-known investors like Sequoia Capital, Intel Capital and NEA. Its last round of funding was more than two years ago at a reported $1.6 billion valuation.
+MongoDB has taken advantage of the “confidential filing” provision of the JOBS Act, which was introduced in 2012. 
+Many companies are choosing to submit filings and wait until 15 days before the investor roadshow before unveiling its financials. 
+This helps startups get ready to list on the stock market without as much scrutiny until a few weeks before the debut.
+There have been rumblings about an eventual MongoDB IPO for several years now. 
+In May, the Wall Street Journal reported that the company hired investment bankers to move forward with the IPO process.
+We recently reported that Stitch Fix has also filed confidentially for an IPO. 
+We’re hearing that a number of companies are planning to go public between Labor Day and Thanksgiving.
+IPOs are a great way to provide liquidity for employees and early investors. 
+While companies like Google and Amazon have found tremendous success on the stock market, recent high-profile IPOs like Snap and Blue Apron have struggled. 
+Cloudera, a big data company, has remained above its IPO price.
